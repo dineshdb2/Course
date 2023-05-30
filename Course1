@@ -1,12 +1,6 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Dinesh Rayalacheruvu 
+Univariate Analysis
+-A lot of insights can be drawn just from one variable 
+-To add more depth to the analysis, we can use the segmented univariate analysis approach 
+-univariate analysis can be of two types - categorical and numeric
 
